@@ -5,13 +5,7 @@ Computer Science Student at ESTIN | Aspiring Software Developer | AI Enthusiast
 </h3>
 
 <p align="center">
-  <a href="https://hamza-amiour.vercel.app/">
-    Portfolio
-  </a>
-  •
-  <a href="YOUR_LINKEDIN_URL">
-    LinkedIn
-  </a>
+  🌍 Jijel, Algeria
 </p>
 
 ---
@@ -19,7 +13,6 @@ Computer Science Student at ESTIN | Aspiring Software Developer | AI Enthusiast
 ## 👨‍💻 About Me
 
 - 🎓 Computer Science Student at ESTIN
-- 🌍 Based in Jijel, Algeria
 - 💡 Passionate about Software Development and Artificial Intelligence
 - 🚀 Building projects to improve my programming and problem-solving skills
 - 📚 Currently learning React, Data Structures & Algorithms, and AI
@@ -55,12 +48,19 @@ Computer Science Student at ESTIN | Aspiring Software Developer | AI Enthusiast
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### 🌐 Portfolio Website
-Personal portfolio built to showcase my projects, skills, and journey as a developer.
+### 🐾 Veto-Care
 
-🔗 https://hamza-amiour.vercel.app/
+A veterinary management platform designed to simplify pet care services and veterinary operations.
+
+🔗 https://animora-three.vercel.app/
+
+### 🏠 Iqamty
+
+A student housing and residence management platform developed collaboratively with my teammates.
+
+🔗 https://iqamty-estin-pp.web.app/
 
 ---
 
@@ -82,21 +82,8 @@ Personal portfolio built to showcase my projects, skills, and journey as a devel
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact
 
-📧 Email: **hamzaamiour8@gmail.com**
+📧 Email: hamzaamiour8@gmail.com
 
-💼 LinkedIn: **YOUR_LINKEDIN_URL**
-
-🌐 Portfolio: **https://hamza-amiour.vercel.app/**
-
----
-
-## 🎯 2025 Goals
-
-- Build more real-world projects
-- Master Data Structures & Algorithms
-- Learn advanced React concepts
-- Explore Artificial Intelligence and Machine Learning
-- Contribute to open-source projects
-- Secure internship opportunities
+🌐 Portfolio: https://hamza-amiour.vercel.app/
